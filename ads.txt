@@ -1,6 +1,6 @@
-#Ads.txt joshuajireh.info
+#Ads.txt goshs.site
 #Ads.txt managed by AdsTxtManager.com - the free ads.txt management tool for publishers
-ownerdomain=joshuajireh.info
+ownerdomain=goshs.site
 contact=directsales@ezoic.com
 managerdomain=ezoic.ai
 
