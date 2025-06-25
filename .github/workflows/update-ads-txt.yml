@@ -16,7 +16,7 @@ jobs:
 
       - name: Download ads.txt
         run: |
-          curl -L https://srv.adstxtmanager.com/19390/joshuajireh.info -o ads.txt
+          curl -L https://srv.adstxtmanager.com/19390/goshs.site -o ads.txt
 
       - name: Commit and push if changed
         run: |
